@@ -101,7 +101,7 @@ while (condition){statement}
 ```
 *  Make an array "fish" with three elements: "Snapper", "Tuna", and "Salmon".
 *  Set a var "i" to 0 (you will use this to increment the index of each element)
-*  Make a while loop that will add each element in "fish" as list items to the element with the id "print"
+*  Make a while loop that will add each element in "fish" as list items to the element with the id "print".
 
 ###7. jQuery:
 
@@ -117,7 +117,12 @@ var numbers = [5, 10, 15, 20, 25, 30 , 35, 40, 45, 50];
 *  Use the jQuery .each method to iterate over all elements in the array one by one and add them as list items to the element with the id "print".
 
 ####B. .grep method:
-
+*  You can use this method for filtering an array. Here is the syntax:
+```javascript
+jQuery.grep( array, function(elementOfArray, indexInArray) [, invert] )
+``` 
+*  Make a variable called "bigNumbers" that will contain only the numbers in the array "numbers" that are larger than 25.
+*  Incorporate what you learned from the .each section to add each element in "bigNumbers" as list items to the element with the id "print".
 
 ##Resources:
 * [MDN Array Methods](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)
