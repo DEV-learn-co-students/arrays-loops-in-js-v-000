@@ -105,6 +105,19 @@ while (condition){statement}
 
 ###7. jQuery:
 
+####A. .each method:
+*  You may notice that there is no easy way to call the each method we're accustomed to in Ruby in JavaScript. However, jQuery does provide one. Here is the syntax:
+```javascript
+$.each( function(index, Element) ) { statement }
+```
+*  Add this array to your code:
+```javascript
+var numbers = [5, 10, 15, 20, 25, 30 , 35, 40, 45, 50];
+```
+*  Use the jQuery .each method to iterate over all elements in the array one by one and add them as list items to the element with the id "print".
+
+####B. .grep method:
+
 
 ##Resources:
 * [MDN Array Methods](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)
