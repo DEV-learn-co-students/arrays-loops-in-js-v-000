@@ -91,13 +91,23 @@ for ([initialExpression]; [condition]; [incrementExpression]) {statement}
 do {statement} while (condition);
 ```
 *  Make an array "cars" with threee string elements: "Corvette","Mustang", and "Porsche".
-*  Set a var "i" to 0
+*  Set a var "i" to 0 (you will use this to increment the index of each element)
 *  Make a while loop that will add each element in "cars" as list items to the element with the id "print"
 
 ####D. While Loops:
+*  Here is the syntax:
+```javascript
+while (condition){statement}
+```
+*  Make an array "fish" with three elements: "Snapper", "Tuna", and "Salmon".
+*  Set a var "i" to 0 (you will use this to increment the index of each element)
+*  Make a while loop that will add each element in "fish" as list items to the element with the id "print"
+
+###7. jQuery:
 
 
 ##Resources:
 * [MDN Array Methods](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)
+* [MDN Loop Statements](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Statements)
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
 * [Code School](https://www.codeschool.com/paths/javascript)
