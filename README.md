@@ -45,7 +45,7 @@ myArr['first'] = myArr[0];
 myArr['first'];
   --> 'Hello'
 ```
-*  Create an association so that calling myArr['Greeting'] will return "Hello"
+*  Create an association so that calling myArr['Greeting'] will return "Hello".
 
 ###3. Overwriting:
 *  We can overwrite all the elements of an array simply by giving the array new values. Or passing one array into another.
@@ -91,8 +91,8 @@ for ([initialExpression]; [condition]; [incrementExpression]) {statement}
 do {statement} while (condition);
 ```
 *  Make an array "cars" with threee string elements: "Corvette","Mustang", and "Porsche".
-*  Set a var "i" to 0 (you will use this to increment the index of each element)
-*  Make a while loop that will add each element in "cars" as list items to the element with the id "print"
+*  Set a var "i" to 0 (you will use this to increment the index of each element).
+*  Make a while loop that will add each element in "cars" as list items to the element with the id "print".
 
 ####D. While Loops:
 *  Here is the syntax:
@@ -100,7 +100,7 @@ do {statement} while (condition);
 while (condition){statement}
 ```
 *  Make an array "fish" with three elements: "Snapper", "Tuna", and "Salmon".
-*  Set a var "i" to 0 (you will use this to increment the index of each element)
+*  Set a var "i" to 0 (you will use this to increment the index of each element).
 *  Make a while loop that will add each element in "fish" as list items to the element with the id "print".
 
 ###7. jQuery:
