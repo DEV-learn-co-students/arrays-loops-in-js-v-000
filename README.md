@@ -45,10 +45,20 @@ myArr['first'] = myArr[0];
 myArr['first'];
   --> 'Hello'
 ```
-* Create an association so that calling myArr['Greeting'] will return "Hello"
+*  Create an association so that calling myArr['Greeting'] will return "Hello"
 
-###Fruit Time:
-* Stuff
+###Overwriting:
+*  We can overwrite all the elements of an array simply by giving the array new values. Or passing one array into another.
+*  Make an array called "fruits" where the four elements are these strings: Apples, Oranges, Pears, and Bananas.
+*  Overwrite "myArr" to equal "fruits".
+
+###Retrieving the Total Number of Elements and Last Index:
+*  Call length on the myArr. Is the result the number you were expecting?
+*  Keeping in mind the fact that indexes start with zero instead of one, get the last element's index position in "myArr".
+*  Make a variable "pos" and set it equal to the number you found in the step just above.
+*  What should myArr[pos] return? Does it?
+
+###
 
 ##Resources:
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
