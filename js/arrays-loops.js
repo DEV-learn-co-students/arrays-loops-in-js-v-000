@@ -42,7 +42,7 @@ $(document).ready(function(){
 	console.log(myArr['Greeting']);
 	console.log('------');
 	
-	//We can overright all the elements of an array simply by giving the array new values. Or passing one array into another.
+	//We can overwrite all the elements of an array simply by giving the array new values. Or passing one array into another.
 	
 	var fruits = ['Apples', 'Oranges', 'Pears', 'Bananas'];
 	
