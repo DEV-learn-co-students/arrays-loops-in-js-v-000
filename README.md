@@ -73,14 +73,29 @@ arrayToModify.splice(index, how many elements to remove, optional content to add
 *  Now remove Lion from the 3rd index position using splice.
 
 ###6. Loops:
+
+####A. Introduction to Loops:
 *  A loop is a set of commands that executes repeatedly until a specified condition is met. JavaScript supports the for, do while, and while loop statements.
+
+####B. For Loops:
 *  A "for" loop repeats until a specified condition evaluates to false. Here is the syntax:
 ```javascript
 for ([initialExpression]; [condition]; [incrementExpression]) {statement}
 ```
-*  Make an array "vegetables" with three string elements: Broccoli,Peas, and Carrots
-*  Use a "for" loop that will add each element in "vegetables" as list items to the element with the id "print" 
-*  A while statement executes its statements as long as a specified condition evaluates to true.
+*  Make an array "vegetables" with three string elements: Broccoli,Peas, and Carrots.
+*  Use a "for" loop that will add each element in "vegetables" as list items to the element with the id "print".
+
+####C. Do While Loops:
+*  A while statement executes its statements as long as a specified condition evaluates to true. Here is the syntax:
+```javascript
+do {statement} while (condition);
+```
+*  Make an array "cars" with threee string elements: "Corvette","Mustang", and "Porsche".
+*  Set a var "i" to 0
+*  Make a while loop that will add each element in "cars" as list items to the element with the id "print"
+
+####D. While Loops:
+
 
 ##Resources:
 * [MDN Array Methods](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)
