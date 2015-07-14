@@ -1,8 +1,3 @@
----
-tags: arrays, data types, loops, jQuery, WIP
-language: JavaScript, JS
----
-
 # Arrays and Loops in JavaScript
 
 ##Objectives:
