@@ -124,3 +124,5 @@ jQuery.grep( array, function(elementOfArray, indexInArray) [, invert] )
 * [MDN Loop Statements](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Statements)
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
 * [Code School](https://www.codeschool.com/paths/javascript)
+
+<a href='https://learn.co/lessons/arrays-loops-in-js' data-visibility='hidden'>View this lesson on Learn.co</a>
